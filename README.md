@@ -35,9 +35,9 @@ DATABASE_URL=postgresql://<usuario>:<senha>@<host>:<porta>/<banco>
 API_KEY=<sua-api-key-CoinCap>
 ```
 
-Substitua com os valores reais do seu banco e chave CoinCap. Substitua no codigo pelo nome do seu arquivo `.env`
+Substitua com os valores reais do seu banco e chave CoinCap. Substitua no codigo pelo nome do seu arquivo `py_env.env`
 
-Ou simplesmente baixe o arquivo py_env.env e use com as minhas credenciais.
+Ou simplesmente baixe o arquivo `py_env.env` e use com as minhas credenciais.
 
 ---
 
