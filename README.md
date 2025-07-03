@@ -83,8 +83,7 @@ Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 
 ### 📊 Dashboad na integra!
 
-![image](https://github.com/user-attachments/assets/a27dd671-d254-4802-a131-e51f8f84505e)
-
+![image](https://github.com/user-attachments/assets/517981ec-4d21-4820-ab1b-b573af3baaba)
 
 ---
 
