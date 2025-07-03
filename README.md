@@ -14,6 +14,7 @@ O projeto foi desenvolvido com foco em boas práticas de engenharia de dados e e
 * [PostgreSQL (Render)](https://render.com/)
 * [CoinCap REST API v3](https://docs.coincap.io/)
 * [python-dotenv](https://pypi.org/project/python-dotenv/)
+* [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
 ---
 
