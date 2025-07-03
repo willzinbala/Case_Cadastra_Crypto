@@ -92,7 +92,7 @@ while True:
     time.sleep(3600)  # aguarda 1 hora
 ```
 
-Ou até mesmo com agendamento usando `APScheduler`, `cron`, GitHub Actions ou deploy com FastAPI + Worker.
+Ou até mesmo com agendamento usando `APScheduler`, `cron`, GitHub Actions ou `AIRFLOW`.
 
 ---
 
