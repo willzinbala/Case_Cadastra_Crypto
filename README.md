@@ -21,7 +21,7 @@ O projeto foi desenvolvido com foco em boas práticas de engenharia de dados e e
 
 ### 1. Clone o repositório (se aplicável)
 
-Ou abra os notebooks diretamente no [Google Colab](https://colab.research.google.com/).
+Ou abra o notebook diretamente no [Google Colab](https://colab.research.google.com/).
 
 ---
 
