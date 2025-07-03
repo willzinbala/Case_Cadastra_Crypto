@@ -36,7 +36,7 @@ API_KEY=<sua-api-key-CoinCap>
 
 Substitua com os valores reais do seu banco e chave CoinCap.
 
-Ou simplesmente baixe o arquivo py_env.env e use com as minhas credenciais
+Ou simplesmente baixe o arquivo py_env.env e use com as minhas credenciais.
 
 ---
 
