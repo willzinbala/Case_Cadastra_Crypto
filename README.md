@@ -88,7 +88,7 @@ Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 Baixe o arquivo .pbix e tenha acesso a este Dashboard!
 ---
 
-# 🚀 Possíveis Melhorias
+# 🚀 Futuras Melhorias
 
 ### 🔄 1. Automatização via pipeline
 
