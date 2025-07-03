@@ -88,7 +88,12 @@ Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 
 Baixe o arquivo .pbix e tenha acesso a este Dashboard!
 
-(Em Desenvolvimento e Limitações) Seria possível fazer um grafico de linhas mostrando a variação diária das moedas consumindo da própria API CoinCap na parte de History (/v3/assets/{slug}/history). Porém, o limite de requisições seria facilmente atingido no plano free da API.
+## Dados históricos do Bitcoin
+
+![image](https://github.com/user-attachments/assets/3f212b31-614c-458d-9303-d8ea330a9dc1)
+
+Grafico de linhas mostrando a variação diária do Bitcoin. 
+O limite de requisições seria facilmente atingido no plano free da API, se fosse feito de várias moedas.
 
 ---
 
