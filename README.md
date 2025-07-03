@@ -70,11 +70,18 @@ No próprio código, haverá a indicação do que cada função estará fazendo,
 
 ---
 
-# 🎲 Em Desenvolvimento
+# 📈 Dashboard com Power BI
+Este dashboard interativo foi desenvolvido com Power BI e tem como objetivo apresentar uma visão consolidada e analítica sobre o mercado de criptomoedas em tempo real, com dados obtidos via API pública da CoinCap e armazenados em um banco PostgreSQL.
 
-### 📈 Dashboard com Power BI
+### 🎯 Objetivo do Dashboard
 
-Visualizar os dados com gráficos e rankings interativos (arquivo .pbix)
+Visualizar as principais criptomoedas do mercado com base em preço, volume e valor de mercado.
+
+Facilitar comparações entre as moedas mais relevantes do dia.
+
+Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
+
+### 📊 Dashboad na integra!
 
 ![image](https://github.com/user-attachments/assets/a27dd671-d254-4802-a131-e51f8f84505e)
 
