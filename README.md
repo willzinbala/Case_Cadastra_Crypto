@@ -71,7 +71,7 @@ No próprio código, haverá a indicação do que cada função estará fazendo,
 ---
 
 # 📈 Dashboard com Power BI
-Este dashboard interativo foi desenvolvido com Power BI e tem como objetivo apresentar uma visão consolidada e analítica sobre o mercado de criptomoedas em tempo real, com dados obtidos via API pública da CoinCap e armazenados em um banco PostgreSQL.
+Este dashboard interativo foi desenvolvido com Power BI e tem como objetivo apresentar uma visão consolidada e analítica sobre o mercado de criptomoedas, com dados obtidos via API pública da CoinCap e armazenados em um banco PostgreSQL.
 
 ### 🎯 Objetivo do Dashboard
 
