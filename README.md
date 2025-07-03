@@ -55,7 +55,7 @@ Isso garante que suas credenciais sensíveis não fiquem no código.
 
 ### 4. Execute ***sequencialmente*** os notebooks
 
-No próprio código, há a indicação do que cada função estara fazendo, como extrair da API, armazenar no banco etc...
+No próprio código, haverá a indicação do que cada função estará fazendo, como extrair dados da API, armazenar no banco PostgreSQL, etc...
 
 ---
 
