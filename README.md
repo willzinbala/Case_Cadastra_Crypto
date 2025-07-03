@@ -87,6 +87,9 @@ Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 ![image](https://github.com/user-attachments/assets/517981ec-4d21-4820-ab1b-b573af3baaba)
 
 Baixe o arquivo .pbix e tenha acesso a este Dashboard!
+
+Futura melhoria: Seria possível fazer um grafico de linhas mostrando a variação diária, no mínimo 10 dias de dados confiáveis ou consumir da própria API CoinCap na parte de History (/v3/assets/{slug}/history)
+
 ---
 
 # 🚀 Futuras Melhorias
