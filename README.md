@@ -82,7 +82,7 @@ Facilitar comparações entre as moedas mais relevantes do dia.
 
 Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 
-### 📊 Dashboad na integra!
+### 📊 Dashboad na íntegra!
 
 ![image](https://github.com/user-attachments/assets/517981ec-4d21-4820-ab1b-b573af3baaba)
 
