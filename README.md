@@ -76,6 +76,9 @@ No próprio código, haverá a indicação do que cada função estará fazendo,
 
 Visualizar os dados com gráficos e rankings interativos (arquivo .pbix)
 
+![image](https://github.com/user-attachments/assets/a27dd671-d254-4802-a131-e51f8f84505e)
+
+
 ---
 
 # 🚀 Possíveis Melhorias
