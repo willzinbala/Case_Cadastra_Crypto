@@ -1,0 +1,101 @@
+id,name,symbol,rank
+bitcoin,Bitcoin,BTC,1
+ethereum,Ethereum,ETH,2
+tether,Tether,USDT,3
+xrp,XRP,XRP,4
+binance-coin,BNB,BNB,5
+solana,Solana,SOL,6
+usd-coin,USDC,USDC,7
+tron,TRON,TRX,8
+dogecoin,Dogecoin,DOGE,9
+steth,Lido Staked ETH,STETH,10
+cardano,Cardano,ADA,11
+wrapped-bitcoin,Wrapped Bitcoin,WBTC,12
+hyperliquid,Hyperliquid,HYPE,13
+bitcoin-cash,Bitcoin Cash,BCH,14
+sui,Sui,SUI,15
+chainlink,Chainlink,LINK,16
+weth,Wrapped ETH,WETH,17
+unus-sed-leo,UNUS SED LEO,LEO,18
+avalanche,Avalanche,AVAX,19
+stellar,Stellar,XLM,20
+bitcoin-bep2,Bitcoin BEP2,BTCB,21
+toncoin,Toncoin,TON,22
+shiba-inu,Shiba Inu,SHIB,23
+litecoin,Litecoin,LTC,24
+hedera-hashgraph,Hedera,HBAR,25
+monero,Monero,XMR,26
+polkadot,Polkadot,DOT,27
+multi-collateral-dai,Dai,DAI,28
+bitget-token-new,Bitget Token,BGB,29
+ethena-usde,Ethena USDe,USDE,30
+uniswap,Uniswap,UNI,31
+pepe,Pepe,PEPE,32
+aave,Aave,AAVE,33
+pi,Pi,PI,34
+aptos,Aptos,APT,35
+bittensor,Bittensor,TAO,36
+okb,OKB,OKB,37
+near-protocol,Near Protocol,NEAR,38
+internet-computer,Internet Computer,ICP,39
+ethereum-classic,Ethereum Classic,ETC,40
+crypto-com-coin,Cronos,CRO,41
+ondo-finance,Ondo,ONDO,42
+kaspa,Kaspa,KAS,43
+polygon-ecosystem-token,POL (prev. MATIC),POL,44
+mantle,Mantle,MNT,45
+gatetoken,GateToken,GT,46
+vechain,VeChain,VET,47
+fetch,Artificial Superintelligence Alliance,FET,48
+official-trump,Trump Official,TRUMP,49
+arbitrum,Arbitrum,ARB,50
+render,Render,RENDER,51
+ethena,Ethena,ENA,52
+cosmos,Cosmos,ATOM,53
+filecoin,Filecoin,FIL,54
+worldcoin-org,Worldcoin,WLD,55
+sei,Sei,SEI,56
+algorand,Algorand,ALGO,57
+first-digital-usd,First Digital USD,FDUSD,58
+kucoin-token,KuCoin Token,KCS,59
+jupiter,Jupiter,JUP,60
+quant,Quant,QNT,61
+bonk1,Bonk,BONK,62
+fartcoin,Fartcoin,FARTCOIN,63
+injective-protocol,Injective,INJ,64
+celestia,Celestia,TIA,65
+stacks,Stacks,STX,66
+flare,Flare,FLR,67
+virtual-protocol,Virtuals Protocol,VIRTUAL,68
+wbnb,Wrapped BNB,WBNB,69
+xinfin-network,XDC Network,XDC,70
+kaia,Kaia,KAIA,71
+pudgy-penguins,Pudgy Penguins,PENGU,72
+fantom,Sonic (prev. FTM),S,73
+optimism-ethereum,Optimism,OP,74
+dogwifhat,dogwifhat,WIF,75
+paypal-usd,PayPal USD,PYUSD,76
+the-graph,The Graph,GRT,77
+story-protocol,Story,IP,78
+tether-gold,Tether Gold,XAUT,79
+immutable-x,Immutable X,IMX,80
+nexo,Nexo,NEXO,81
+pancakeswap,PancakeSwap,CAKE,82
+floki-inu,FLOKI,FLOKI,83
+jito,Jito,JTO,84
+theta,Theta Network,THETA,85
+curve-dao-token,Curve DAO Token,CRV,86
+pax-gold,PAX Gold,PAXG,87
+lido-dao,Lido DAO,LDO,88
+ethereum-name-service,Ethereum Name Service,ENS,89
+gala,Gala,GALA,90
+zcash,Zcash,ZEC,91
+the-sandbox,The Sandbox,SAND,92
+iota,IOTA,IOTA,93
+usual-usd,Usual USD,USD0,94
+jasmy,JasmyCoin,JASMY,95
+dexe,DeXe,DEXE,96
+aerodrome-finance,Aerodrome Finance,AERO,97
+bittorrent,BitTorrent [New],BTTOLD,98
+pendle,Pendle,PENDLE,99
+tezos,Tezos,XTZ,100
