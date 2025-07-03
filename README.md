@@ -53,6 +53,12 @@ Isso garante que suas credenciais sensíveis não fiquem no código.
 
 ---
 
+### 4. Execute ***sequencialmente*** os notebooks
+
+No próprio código, há a indicação do que cada função estara fazendo, como extrair da API, armazenar no banco etc...
+
+---
+
 ## ✅ Funcionalidades Implementadas
 
 * ✅ Conexão com API CoinCap v3 (com autenticação via `apiKey`)
