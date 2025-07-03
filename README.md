@@ -85,6 +85,7 @@ Entregar uma visualização clara, dinâmica e pronta para tomada de decisões.
 
 ![image](https://github.com/user-attachments/assets/517981ec-4d21-4820-ab1b-b573af3baaba)
 
+Baixe o arquivo .pbix e tenha acesso a este Dashboard!
 ---
 
 # 🚀 Possíveis Melhorias
