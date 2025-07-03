@@ -64,6 +64,14 @@ Isso garante que suas credenciais sensíveis não fiquem no código.
 
 ---
 
+# 🎲 Em Desenvolvimento
+
+### 📈 Dashboard com Power BI
+
+Visualizar os dados com gráficos e rankings interativos (arquivo .pbix)
+
+---
+
 # 🚀 Possíveis Melhorias
 
 ### 🔄 1. Automatização via pipeline
@@ -88,19 +96,13 @@ Coletar e registrar preços periodicamente para análises de tendências e flutu
 
 ---
 
-### 📈 3. Dashboard com Streamlit ou Power BI
-
-(Em desenvolvimento) Visualizar os dados com gráficos e rankings interativos.
-
----
-
-### 🥮 4. Validação de dados
+### 🥮 3. Validação de dados
 
 Implementar validações para evitar duplicatas, valores inválidos ou inconsistências (ex: capitalização negativa).
 
 ---
 
-### 🔗 5. Suporte a múltiplas fontes (ex: CoinGecko, Binance)
+### 🔗 4. Suporte a múltiplas fontes (ex: CoinGecko, Binance)
 
 Permitir coleta comparativa entre diferentes APIs públicas de mercado.
 
