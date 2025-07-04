@@ -138,4 +138,4 @@ Permitir coleta comparativa entre diferentes APIs públicas de mercado.
 
 ## 🙇‍♂️ Autor
 
-Desenvolvido por **Willian José Nogueira** como desafio técnico `end-to-end` de engenharia de dados com foco em boas práticas em python, banco de dados relacional, APIs públicas e Relatórios para tomada de decisão.
+Desenvolvido por **Willian José Nogueira** como desafio técnico `end-to-end` de engenharia de dados com foco em boas práticas em Python, Banco de Dados Relacional, APIs públicas e Relatórios para tomada de decisão.
