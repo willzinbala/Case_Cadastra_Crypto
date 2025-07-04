@@ -1,4 +1,4 @@
-# Projeto CoinCap Crypto Cadastra
+# Case CoinCap Crypto Cadastra
 
 Este projeto consiste em uma aplicação em Python (executada via Google Colab) que consome dados da API pública [CoinCap](https://coincap.io/) e os armazena em um banco de dados PostgreSQL hospedado na nuvem (Render). Os dados coletados incluem informações como nome da criptomoeda, símbolo, ranking, preço em USD, volume de negociação nas últimas 24h, entre outros.
 
