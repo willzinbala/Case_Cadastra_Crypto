@@ -1,4 +1,4 @@
-# 💸 Projeto CoinCap Crypto Cadastra
+# Projeto CoinCap Crypto Cadastra
 
 Este projeto consiste em uma aplicação em Python (executada via Google Colab) que consome dados da API pública [CoinCap](https://coincap.io/) e os armazena em um banco de dados PostgreSQL hospedado na nuvem (Render). Os dados coletados incluem informações como nome da criptomoeda, símbolo, ranking, preço em USD, volume de negociação nas últimas 24h, entre outros.
 
@@ -6,7 +6,7 @@ O projeto foi desenvolvido com foco em boas práticas de engenharia de dados e e
 
 ---
 
-## 📚 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * [Python 3.10+](https://www.python.org/)
 * [Google Colab](https://colab.research.google.com/)
@@ -18,7 +18,7 @@ O projeto foi desenvolvido com foco em boas práticas de engenharia de dados e e
 
 ---
 
-## 💠 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório (se aplicável)
 
@@ -60,7 +60,7 @@ No próprio código, haverá a indicação do que cada função estará fazendo,
 
 ---
 
-## ✅ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 * ✅ Conexão com API CoinCap v3 (com autenticação via `apiKey`)
 * ✅ Extração de dados sobre criptomoedas e preços
@@ -74,7 +74,7 @@ No próprio código, haverá a indicação do que cada função estará fazendo,
 # 📈 Dashboard com Power BI
 Este dashboard interativo foi desenvolvido com Power BI e tem como objetivo apresentar uma visão consolidada e analítica sobre o mercado de criptomoedas, com dados obtidos via API pública da CoinCap e armazenados em um banco PostgreSQL.
 
-### 🎯 Objetivo do Dashboard
+### Objetivo do Dashboard
 
 Visualizar as principais criptomoedas do mercado com base em preço, volume e valor de mercado.
 
@@ -102,7 +102,7 @@ Gráfico idêntico com o buscado no Google por exemplo. 😁
 
 # 🚀 Futuras Melhorias
 
-### 🔄 1. Automatização via pipeline
+### 1. Automatização via pipeline
 
 Criar um laço contínuo para coletar os dados automaticamente a cada intervalo de tempo:
 
@@ -118,19 +118,19 @@ Ou até mesmo com agendamento usando `APScheduler`, `cron`, GitHub Actions ou `A
 
 ---
 
-### 📊 2. Histórico de preços (séries temporais)
+### 2. Histórico de preços (séries temporais)
 
 Coletar e registrar preços periodicamente para análises de tendências e flutuação do mercado.
 
 ---
 
-### 🥮 3. Validação de dados
+### 3. Validação de dados
 
 Implementar validações para evitar duplicatas, valores inválidos ou inconsistências (ex: capitalização negativa).
 
 ---
 
-### 🔗 4. Suporte a múltiplas fontes (ex: CoinGecko, Binance)
+### 4. Suporte a múltiplas fontes (ex: CoinGecko, Binance)
 
 Permitir coleta comparativa entre diferentes APIs públicas de mercado.
 
